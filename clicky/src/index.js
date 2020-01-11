@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import BurgerGame from './components/BatmanGame'
+import BatmanGame from './components/BatmanGame'
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 

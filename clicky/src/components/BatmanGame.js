@@ -4,7 +4,7 @@ import Container from './Container';
 import Banner from './Banner';
 import images from '../images';
 
-class BurgerGame extends Component {
+class BatmanGame extends Component {
   state = {
     score: 0,
     highScore: 0,
